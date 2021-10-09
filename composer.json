@@ -1,5 +1,5 @@
 {
-    "name": "starfalling/aliyun-oss-php-sdk",
+    "name": "hy-xusong/aliyun-oss-php-sdk-swoole",
     "description": "Aliyun OSS SDK for PHP (fork for swoole)",
     "homepage": "http://www.aliyun.com/product/oss/",
     "type": "library",
@@ -19,6 +19,6 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"OSS\\": "src/OSS"}
+        "psr-4": {"OSSX\\": "src/OSSX"}
     }
 }
